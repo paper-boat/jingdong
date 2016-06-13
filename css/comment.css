@@ -1,0 +1,12 @@
+body,li,ul,ol,form,input,h1,h2,h3,h4,h5,h6,p,pre{
+	margin: 0;
+	padding: 0;
+	list-style: none;/*去掉小黑点*/
+	font-family: "微软雅黑";
+}
+a{
+	text-decoration: none;
+}
+img{
+	border: 0; 
+}
